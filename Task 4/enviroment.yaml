@@ -1,0 +1,8 @@
+name: IML-Projects-GPU
+channels:
+  - conda-forge
+  - nvidia
+  - pytorch
+dependencies:
+  - python=3.10
+  - pytorch::pytorch
